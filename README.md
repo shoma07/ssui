@@ -4,6 +4,10 @@ TUI of Sheet (CSV, Excel, SpreadSheet)
 
 NOTE: This is prototype.
 
+## Sample
+
+![sample.png](sample.png "sample.png")
+
 ## Installation
 
 Add this line to your application's Gemfile:
